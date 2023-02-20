@@ -2,6 +2,10 @@ import React from "react";
 import Card from "./Card";
 
 const CardList = ({ robots }) => (
+  // Forced Error code to test if component did catch on the app
+  // if (true) {
+  //   throw new Error('Nooooo');
+  // }
   <>
     {
       robots.map((user, i) => (
@@ -16,6 +20,6 @@ const CardList = ({ robots }) => (
       )
     }
   </>
-);
+  );
 
 export default CardList;
