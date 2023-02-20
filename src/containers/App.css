@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Font1';
+  font-style: normal;
+  font-weight: normal;
+  src: url('CFIRobotRegular.ttf');
+}
+
+h1 {
+  font-family: 'Font1';
+  font-size: 90px;
+}
