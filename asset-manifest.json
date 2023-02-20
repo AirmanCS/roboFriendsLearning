@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboFriendsLearning/static/css/main.5bec9847.css",
+    "main.js": "/roboFriendsLearning/static/js/main.1357f1f5.js",
+    "static/js/787.32032a02.chunk.js": "/roboFriendsLearning/static/js/787.32032a02.chunk.js",
+    "static/media/CFIRobotRegular.ttf": "/roboFriendsLearning/static/media/CFIRobotRegular.0e2e028763281fd79606.ttf",
+    "index.html": "/roboFriendsLearning/index.html",
+    "main.5bec9847.css.map": "/roboFriendsLearning/static/css/main.5bec9847.css.map",
+    "main.1357f1f5.js.map": "/roboFriendsLearning/static/js/main.1357f1f5.js.map",
+    "787.32032a02.chunk.js.map": "/roboFriendsLearning/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bec9847.css",
+    "static/js/main.1357f1f5.js"
+  ]
+}
